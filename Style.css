@@ -4,11 +4,12 @@ header {
     color: purple2; 
     text-align: center;
 }
+
 body {
     font-family: Arial, sans-serif;
     background-color: D0BOFF;
     color:purple1;
-
+}
 footer{
     background-color: #C06EFF;
     color: purple2;
