@@ -5,11 +5,14 @@ header {
     text-align: center;
 }
 
-}
+
 footer{
-  background-color:#lightpurple;}
-
-
+  #lightpurple;
+    background-color: #D0B0FF;
+    color:purple1;
+    text-align: center;
+    padding: 1em;
+}
 
 
   
