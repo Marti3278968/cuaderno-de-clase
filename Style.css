@@ -4,14 +4,15 @@ header {
     color: purple2; 
     text-align: center;
 }
-
+body {
+    font-family: Arial, sans-serif;
+    background-color:D0BOFF;
+    color:purple1;
 
 footer{
-  #lightpurple;
-    background-color: #D0B0FF;
-    color:purple1;
+    background-color: #C06EFF;
+    color:purple2;
     text-align: center;
-    padding: 1em;
 }
 
 
